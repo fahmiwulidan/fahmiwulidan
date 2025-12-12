@@ -73,19 +73,19 @@
 
 ---
 
-### 📊 GitHub Stats:
+### 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fahmiwulidan&show_icons=true&theme=light" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=fahmiwulidan&layout=compact&theme=light" alt="Top Languages" />
+  <img height="180em" src="https://github-stats-fahmi.vercel.app/api?username=fahmiwulidan&show_icons=true&include_all_commits=true&count_private=true&theme=light" />
+  <img height="180em" src="https://github-stats-fahmi.vercel.app/api/top-langs?username=fahmiwulidan&layout=compact&theme=light" />
 </div>
 
 ---
 
-### 🏆 GitHub Trophies:
+### 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=fahmiwulidan&theme=light" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=fahmiwulidan&theme=flat&no-frame=true&margin-w=10" />
 </div>
 
 ---

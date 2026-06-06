@@ -70,23 +70,6 @@
 
 ---
 
-### 🏆 Activity & Streak
-
-<div align="center">
-  <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=fahmiwulidan&show_icons=true&include_all_commits=true&count_private=true&theme=transparent"
-    alt="Fahmi GitHub Stats"
-  />
-  <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=fahmiwulidan&layout=compact&theme=transparent"
-    alt="Top Languages"
-  />
-</div>
-
----
-
 ### 📊 GitHub Stats
 
 <div align="center">

@@ -22,7 +22,7 @@
   />
 </a>
 &nbsp;
-<a href="https://www.linkedin.com/in/fahmi-wulidan-1b4725358/">
+<a href="https://www.linkedin.com/in/fahmiwulidan/">
   <img
     src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
     alt="LinkedIn"

@@ -493,7 +493,7 @@ or technical conversations?
 <br><br>
 
 <sub>
-© 2026 Fahmi Wulidan Abdi · FrontEnd Developer
+© 2023 Fahmi Wulidan Abdi · FrontEnd Developer
 </sub>
 
 </div>
